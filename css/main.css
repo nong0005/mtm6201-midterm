@@ -80,7 +80,7 @@ body {
   
   .hero-content {
     position: relative;
-    background: url(images/hero-background);
+    background: url(../images/hero-background);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -218,7 +218,7 @@ body {
   
   .locations {
     position: relative;
-    background: url(/images/coffee-shop.jpeg);
+    background: url(../images/coffee-shop.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -365,7 +365,7 @@ body {
   
   .Jane {
     position: relative;
-    background: url(/images/testimonial-1.jpeg);
+    background: url(../images/testimonial-1.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -378,7 +378,7 @@ body {
   
   .Scott {
     position: relative;
-    background: url(/images/testimonial-2.jpeg);
+    background: url(../images/testimonial-2.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -391,7 +391,7 @@ body {
   
   .Susie {
     position: relative;
-    background: url(/images/testimonial-3.jpeg);
+    background: url(../images/testimonial-3.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -543,7 +543,7 @@ body {
 
   .hero-content {
     position: relative;
-    background: url(/images/hero-background.jpg);
+    background: url(../images/hero-background.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -631,7 +631,7 @@ body {
 
     .locations {
       position: relative;
-      background: url(/images/coffee-shop.jpeg);
+      background: url(../images/coffee-shop.jpeg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -828,7 +828,7 @@ body {
 
     .hero-content {
       position: relative;
-      background: url(/images/hero-background.jpg);
+      background: url(../images/hero-background.jpg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -909,7 +909,7 @@ body {
   
     .locations {
       position: relative;
-      background: url(/images/coffee-shop.jpeg);
+      background: url(../images/coffee-shop.jpeg);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
